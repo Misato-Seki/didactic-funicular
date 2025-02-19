@@ -12,5 +12,6 @@
 | 13.02.2025 | 2.5 | Lab: Insecure direct object references <br> Lab: URL-based access control can be circumvented <br> Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft | I struggled to find the 1.txt file, but eventually succeeded in solving the lab by accessing and reviewing the chat transcript to retrieve the password. <br> I initially struggled to find where to add ?username=carlos. After understanding the use of the X-Original-URL header, I successfully accessed the admin panel and deleted the user. <br> This lab taught me how to use SQL injection to retrieve database information, such as the version. I learned how to use UNION attacks to extract data from an injected query.|
 | 14.02.2025 | 2 | lecture | Lecture recording |
 | 18.02.2025 | 7.5 | Booking System Project - Phase 1 | Setup Environment |
+| 19.02.2025 | 5 | Booking System Project - Phase 1 | Setup Environment (x86_64 ver Kali) |
 
 <img width="1440" alt="Portswigger" src="https://github.com/user-attachments/assets/385fd86f-4151-4a6f-891e-4b1c0b98d129" />
