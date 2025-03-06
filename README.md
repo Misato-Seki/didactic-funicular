@@ -13,5 +13,6 @@
 | 14.02.2025 | 2 | lecture | Lecture recording |
 | 18.02.2025 | 7.5 | Booking System Project - Phase 1 | Setup Environment |
 | 19.02.2025 | 5 | Booking System Project - Phase 1 | Setup Environment (x86_64 ver Kali) |
+| 06.03.2025 | 5 | Booking System Project - Phase 1 | Penetration testing |
 
 <img width="1440" alt="Portswigger" src="https://github.com/user-attachments/assets/385fd86f-4151-4a6f-891e-4b1c0b98d129" />
