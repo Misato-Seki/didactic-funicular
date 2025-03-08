@@ -16,5 +16,6 @@
 | 06.03.2025 | 5 | Booking System Project - Phase 1 | Penetration testing |
 | 06.03.2025 | 3 | Booking System Project - Phase 1,2 | Setup Environment (arm64 ver kali) |
 | 07.03.2025 | 6 | Booking System Project - Phase 1,2 | make report, hased password attack |
+| 08.03.2025 | 1.5 | Booking System Project - Phase 2 | Brute Force Attack |
 
 <img width="1440" alt="Portswigger" src="https://github.com/user-attachments/assets/385fd86f-4151-4a6f-891e-4b1c0b98d129" />
